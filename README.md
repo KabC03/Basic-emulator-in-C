@@ -5,6 +5,3 @@ This is an extremely basic CPU emulator I wrote in C originally for my 'compiler
 I decided it would be better if it had its own repository.
 
 Im still working on this - since some of the 'syscalls' need work
-
-
-
